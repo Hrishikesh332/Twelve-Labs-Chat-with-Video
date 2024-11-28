@@ -2,6 +2,7 @@ import streamlit as st
 from twelvelabs import TwelveLabs
 from twelvelabs.models.task import Task
 import uuid
+import os
 from dotenv import load_dotenv
 
 
